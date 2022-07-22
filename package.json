@@ -1,0 +1,32 @@
+{
+    "name": "texap",
+    "version": "1.5.0",
+    "description": "React Next Software App & SaaS Startup Template",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "author": "envytheme.com",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.4",
+        "next": "^12.1.4",
+        "nodemailer": "^6.7.2",
+        "nodemailer-sendgrid-transport": "^0.2.0",
+        "react": "^18.0.0",
+        "react-accessible-accordion": "^3.3.5",
+        "react-animate-on-scroll": "^2.1.5",
+        "react-dom": "^18.0.0",
+        "react-image-lightbox": "^5.1.4",
+        "react-modal-video": "^1.2.8",
+        "react-owl-carousel3": "^2.2.5",
+        "react-tabs": "^3.2.3",
+        "sass": "^1.43.5",
+        "sweetalert2": "^11.2.1",
+        "sweetalert2-react-content": "^4.2.0",
+        "swiper": "^6.8.4"
+    }
+}
